@@ -1,5 +1,7 @@
 # Ruby on Rails vs. Django
 
+In general, Django is more bare-bones than Ruby on Rails.  It has fewer features, but is highly automated in a few areas.  Certain things, (the database and the admin interface), Django creates automagically, making it very hard to customize.  However, it makes up for that with it's modularity; it *should* be completely customizable if one is willing to swap out components.
+
 # Similarities
 
 Many things are similar, but have different names and work slightly differently:
@@ -29,7 +31,6 @@ There is a library called [South][south-package] that may help with this; it see
 ### Simpler Routing
 
 The Django URLConf is much simpler than the Rails Router: it doesn't autogenerate resourceful routes, or nested routes.  You must hand-craft a python regex for each url.  (You can automate nesting somewhat by [including other URLConfs][including-other-url-confs] in the top-level URLConf.)
-
 
 
 [south-package]: http://south.aeracode.org/
