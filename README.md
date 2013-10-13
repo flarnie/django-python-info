@@ -13,11 +13,12 @@
 # Intro to Django
 
  * Ruby on Rails to Django
+ * Django Rocks Because...
  * Django Setup
  * Django Example: Arcadia Fairytales
  
 ## Django Resources
 
- * --
- * --
+ * [Official Django Tutorial](https://docs.djangoproject.com/en/1.5/intro/tutorial01/)
+ * [Django Docs](https://docs.djangoproject.com/en/1.5/)
  * --
