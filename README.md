@@ -2,8 +2,8 @@
 
  * Ruby to Python
  * 10 Cool Python Tricks
- * Python Example: RiceRockets
- * Build your own Python toys with [codeskulptor][codeskulptor]
+ * Python Example: [Pong][pong-codeskulptor]
+ * Build your own Python toys on [codeskulptor][codeskulptor]
  
 ## Python Resources
 
@@ -23,5 +23,5 @@
  * [Official Django Tutorial](https://docs.djangoproject.com/en/1.5/intro/tutorial01/)
  * [Django Docs](https://docs.djangoproject.com/en/1.5/)
  * --
- 
+[pong-codeskulptor]: http://www.codeskulptor.org/#user19_iGH95tDTRySUt6u.py  
 [codeskulptor]: http://www.codeskulptor.org/
