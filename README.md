@@ -25,7 +25,7 @@
  * [Django Rocks Because...][django-rocks]
  * [Django Setup][django-setup]
  * Django Example 1: [django-basic-example]
- * Django Example: Arcadia Fairytales (check your email)
+ * Django Example 2: Arcadia Fairytales (check your email)
  
 [ror-to-django]: ror-to-django.md
 [django-rocks]: django-rocks.md
