@@ -2,6 +2,13 @@
 
 ## 1. List/Map Comprehensions
 
+This is a shortcut for writing an iterator to create a list.
+(Lists are like Ruby arrays.)
+
+Details [in the docs][list-comprehensions].
+
+[list-comprehensions]: http://docs.python.org/2/tutorial/datastructures.html#list-comprehensions
+
 ## 2. Python Generators for Large (or Infinte) Data Sets
 
 For a large data set, a generator allows for lazy evaluation of each item one at a time, rather than loading the entire data set into memory for iteration.
@@ -42,21 +49,6 @@ for yr in leap_year_generator(10):
 
 For more, try the [Advanced Generators Tutorial at Dream in Code][adv-generators-python].
 
-## 3. 
-
-## 4. 
-
-## 5.
-
-## 6.
-
-## 7.
-
-## 8.
-
-## 9.
-
-## 10.
 
 [adv-generators-python]: http://www.dreamincode.net/forums/topic/287295-advanced-python-generators/
 [python-xrange]: http://docs.python.org/2/library/functions.html#xrange
