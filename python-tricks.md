@@ -1,4 +1,4 @@
-# 10 Cool Python Tricks
+# Cool Python Tricks
 
 ## 1. List/Map Comprehensions
 
