@@ -24,11 +24,13 @@
  * [Ruby on Rails to Django][ror-to-django]
  * [Django Rocks Because...][django-rocks]
  * [Django Setup][django-setup]
+ * Django Example 1: [django-basic-example]
  * Django Example: Arcadia Fairytales (check your email)
  
 [ror-to-django]: ror-to-django.md
 [django-rocks]: django-rocks.md
 [django-setup]: django-setup.md
+[django-basic-example]: django-setup/django-example/
  
 ## Django Resources
 
